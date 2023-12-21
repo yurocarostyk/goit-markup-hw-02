@@ -1,0 +1,57 @@
+a{
+    text-decoration: none;
+}
+ul{
+    list-style: none;
+}
+.link{
+    text-decoration: none;
+}
+-------------Header--------------
+.header {
+}
+.header-navigation {
+}
+.header-logo {
+  color: var(--NAVY-BLUE, #2e2f42);
+  font-family: Raleway;
+  font-size: 18px;
+  font-weight: 700;
+  line-height: 1.16;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+}
+.header-logo-color{
+    color: var(--IRIS, #4d5ae5);}
+.header-menu-list {
+}
+.header-menu-item {
+}
+.header-menu-link {
+  color: var(--NAVY-BLUE, #2e2f42);
+  font-family: Roboto;
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+}
+.header-menu-link:hover,
+.header-menu-link:active,
+.header-menu-link:focus {
+  color: #4d5ae5;
+}
+.header-address {
+}
+.header-menu-address {
+}
+.header-address-iteam {
+}
+.header-address-link {
+  color: var(--SLATE, #434455);
+  font-family: Roboto;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 1.5;
+  letter-spacing: 0, 02em;
+}
+-----------------------------------------
