@@ -1,14 +1,13 @@
-a{
-    text-decoration: none;
+a {
+  text-decoration: none;
 }
-ul{
-    list-style: none;
+ul {
+  list-style: none;
 }
-.link{
-    text-decoration: none;
+.link {
+  text-decoration: none;
 }
--------------Header--------------
-.header {
+-------------Header-------------- .header {
 }
 .header-navigation {
 }
@@ -21,8 +20,9 @@ ul{
   letter-spacing: 0.03em;
   text-transform: uppercase;
 }
-.header-logo-color{
-    color: var(--IRIS, #4d5ae5);}
+.header-logo-color {
+  color: var(--IRIS, #4d5ae5);
+}
 .header-menu-list {
 }
 .header-menu-item {
@@ -55,3 +55,25 @@ ul{
   letter-spacing: 0, 02em;
 }
 -----------------------------------------
+  ---------------section1
+  Title---------------
+  .hero {
+  background: var(--NAVY-BLUE, #2e2f42);
+}
+.hero-title {
+  color: var(--WHITE, #fff);
+  text-align: center;
+  font-family: Roboto;
+  font-size: 56px;
+  font-weight: 700;
+  line-height: 1.07;
+  letter-spacing: 0, 02em;
+}
+.hero-order-service {
+  color: var(--WHITE, #fff);
+  font-family: Roboto;
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 1, 5;
+  letter-spacing: 0, 04em;
+}
