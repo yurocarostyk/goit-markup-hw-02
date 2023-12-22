@@ -7,6 +7,18 @@ ul {
 .link {
   text-decoration: none;
 }
+.visually-hidden {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  margin: -1px;
+  border: 0;
+  padding: 0;
+  white-space: nowrap;
+  clip-path: inset(100%);
+  clip: rect(0 0 0 0);
+  overflow: hidden;
+}
 -------------Header-------------- .header {
 }
 .header-navigation {
@@ -76,4 +88,28 @@ ul {
   font-weight: 500;
   line-height: 1, 5;
   letter-spacing: 0, 04em;
+}
+----------------------section2 featur ----------------------------- .feature {
+  background: #fff;
+}
+.visually-hidden {
+}
+.feauture-list {
+}
+.features-item {
+}
+.features-subtitle {
+  color: var(--NAVY-BLUE, #2e2f42);
+  font-family: Roboto;
+  font-size: 20px;
+  font-weight: 500;
+  line-height: 1, 2;
+  letter-spacing: 0, 02em;
+}
+.features-item-text {
+  color: var(--SLATE, #434455);
+  font-family: Roboto;
+  font-size: 16px;
+  line-height: 1, 5;
+  letter-spacing: 0, 02em;
 }
