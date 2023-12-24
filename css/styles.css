@@ -202,7 +202,7 @@ ul {
   letter-spacing: 0.02em;
 }
 ------------------------------------Footer------------------------- .footer {
-  background: #2e2f42;
+  background: var(--NAVY-BLUE, #2e2f42);
 }
 
 .footer-logo {
