@@ -24,7 +24,7 @@ ul {
   clip: rect(0 0 0 0);
   overflow: hidden;
 }
--------------Header-------------- .header {
+.header {
 }
 .header-navigation {
 }
@@ -71,10 +71,8 @@ ul {
   line-height: 1.5;
   letter-spacing: 0.02em;
 }
------------------------------------------
-  ---------------section1
-  Title---------------
-  .hero {
+
+.hero {
   background: var(--NAVY-BLUE, #2e2f42);
 }
 .hero-title {
@@ -99,7 +97,8 @@ ul {
 .header-menu-link:focus {
   color: #404bbf;
 }
-----------------------section2 featur ----------------------------- .feature {
+------------------------------------------------feature---------------------
+  .feature {
   background: #fff;
 }
 .visually-hidden {
@@ -123,7 +122,9 @@ ul {
   line-height: 1.5;
   letter-spacing: 0.02em;
 }
------------------------------our team ---------------------------- .team {
+--------------------------------our
+  Team-------------------------------------
+  .team {
   background-color: #ffffff;
 }
 .team-title {
@@ -201,7 +202,8 @@ ul {
   line-height: 1.5;
   letter-spacing: 0.02em;
 }
-------------------------------------Footer------------------------- .footer {
+
+.footer {
   background: var(--NAVY-BLUE, #2e2f42);
 }
 
