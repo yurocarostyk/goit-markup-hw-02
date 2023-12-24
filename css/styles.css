@@ -55,6 +55,7 @@ ul {
 .header-menu-link:focus {
   color: #404bbf;
 }
+
 .header-address {
   font-style: normal;
 }
@@ -93,6 +94,10 @@ ul {
   letter-spacing: 0.04em;
   background-color: #4d5ae5;
   cursor: pointer;
+}
+.header-menu-link:hover,
+.header-menu-link:focus {
+  color: #404bbf;
 }
 ----------------------section2 featur ----------------------------- .feature {
   background: #fff;
