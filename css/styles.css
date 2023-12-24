@@ -1,3 +1,8 @@
+.body {
+  font-family: Roboto, sans-serif;
+  color: #434455;
+  background-color: #ffffff;
+}
 a {
   text-decoration: none;
 }
@@ -24,16 +29,16 @@ ul {
 .header-navigation {
 }
 .header-logo {
-  color: var(--NAVY-BLUE, #2e2f42);
-  font-family: Raleway;
+  color: var(--NAVY-BLUE, #4d5ae5);
+  font-family: Raleway, sans-serif;
   font-size: 18px;
   font-weight: 700;
-  line-height: 1.16;
+  line-height: 1.17;
   letter-spacing: 0.03em;
   text-transform: uppercase;
 }
 .header-logo-color {
-  color: var(--IRIS, #4d5ae5);
+  color: var(--NAVY-BLUE, #2e2f42);
 }
 .header-menu-list {
 }
@@ -41,16 +46,14 @@ ul {
 }
 .header-menu-link {
   color: var(--NAVY-BLUE, #2e2f42);
-  font-family: Roboto;
   font-size: 16px;
   font-weight: 500;
   line-height: 1.5;
   letter-spacing: 0.02em;
 }
 .header-menu-link:hover,
-.header-menu-link:active,
 .header-menu-link:focus {
-  color: #4d5ae5;
+  color: #404bbf;
 }
 .header-address {
 }
@@ -60,11 +63,11 @@ ul {
 }
 .header-address-link {
   color: var(--SLATE, #434455);
-  font-family: Roboto;
+  font-style: normal;
   font-size: 16px;
   font-weight: 400;
   line-height: 1.5;
-  letter-spacing: 0, 02em;
+  letter-spacing: 0.02em;
 }
 -----------------------------------------
   ---------------section1
@@ -75,19 +78,20 @@ ul {
 .hero-title {
   color: var(--WHITE, #fff);
   text-align: center;
-  font-family: Roboto;
   font-size: 56px;
   font-weight: 700;
   line-height: 1.07;
-  letter-spacing: 0, 02em;
+  letter-spacing: 0.02em;
 }
 .hero-order-service {
   color: var(--WHITE, #fff);
-  font-family: Roboto;
+  font-family: Roboto, sans-serif;
   font-size: 16px;
   font-weight: 500;
-  line-height: 1, 5;
-  letter-spacing: 0, 04em;
+  line-height: 1.5;
+  letter-spacing: 0.04em;
+  background-color: #4d5ae5;
+  cursor: pointer;
 }
 ----------------------section2 featur ----------------------------- .feature {
   background: #fff;
@@ -103,15 +107,15 @@ ul {
   font-family: Roboto;
   font-size: 20px;
   font-weight: 500;
-  line-height: 1, 2;
-  letter-spacing: 0, 02em;
+  line-height: 1.2;
+  letter-spacing: 0.02em;
 }
 .features-item-text {
   color: var(--SLATE, #434455);
   font-family: Roboto;
   font-size: 16px;
-  line-height: 1, 5;
-  letter-spacing: 0, 02em;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
 }
 -----------------------------our team ---------------------------- .team {
   background-color: #ffffff;
