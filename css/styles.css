@@ -133,6 +133,7 @@
   background: var(--CLOUD, #f4f4fd);
 }
 .team-iteam {
+  background: var(--WHITE, #fff);
 }
 .team-subtitre {
   color: var(--NAVY-BLUE, #2e2f42);
