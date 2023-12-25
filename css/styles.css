@@ -119,9 +119,8 @@
 .team-title {
   color: var(--NAVY-BLUE, #2e2f42);
   text-align: center;
-  font-family: Roboto;
   font-size: 36px;
-  font-weight: 500;
+  font-weight: 700;
   line-height: 1.11;
   letter-spacing: 0.02em;
   text-transform: capitalize;
@@ -136,7 +135,6 @@
 .team-subtitre {
   color: var(--NAVY-BLUE, #2e2f42);
   text-align: center;
-  font-family: Roboto;
   font-size: 20px;
   font-weight: 500;
   line-height: 1.2;
@@ -147,7 +145,6 @@
 .team-text {
   color: var(--SLATE, #434455);
   text-align: center;
-  font-family: Roboto;
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
