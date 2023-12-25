@@ -63,7 +63,9 @@
   line-height: 1.5;
   letter-spacing: 0.02em;
 }
-
+.header-menu-link:hover,
+.header-menu-link:focus {
+}
 .hero {
   background: var(--NAVY-BLUE, #2e2f42);
 }
