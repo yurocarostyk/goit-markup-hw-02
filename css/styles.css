@@ -29,10 +29,7 @@
   line-height: 1.5;
   letter-spacing: 0.02em;
 }
-.header-menu-link:hover,
-.header-menu-link:focus {
-  background-color: #404bbf;
-}
+
 .header-address {
   font-style: normal;
 }
@@ -69,8 +66,8 @@
   background-color: #4d5ae5;
   cursor: pointer;
 }
-.hero-order-btn:hover,
-.hero-order-btn:focus {
+.hero-order-service:hover,
+.hero-order-service:focus {
   background-color: #404bbf;
 }
 
