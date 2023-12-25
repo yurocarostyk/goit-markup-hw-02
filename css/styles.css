@@ -47,7 +47,7 @@
 }
 .header-address-link:hover,
 .header-address-link:focus {
-  background-color: #404bbf;
+  color: #404bbf;
 }
 .hero {
   background: var(--NAVY-BLUE, #2e2f42);
