@@ -5,6 +5,12 @@
 .header-menu-link:focus {
   color: #404bbf;
 }
+.button:hover {
+  color: white;
+}
+.button {
+  background-color: #404bbf;
+}
 .visually-hidden {
   position: absolute;
   width: 1px;
