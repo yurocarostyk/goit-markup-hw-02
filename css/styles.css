@@ -45,6 +45,10 @@
   line-height: 1.5;
   letter-spacing: 0.02em;
 }
+.header-address-link:hover,
+.header-address-link:focus {
+  color: #404bbf;
+}
 .hero {
   background: var(--NAVY-BLUE, #2e2f42);
 }
@@ -59,6 +63,7 @@
 }
 .hero-order-service {
   color: var(--WHITE, #fff);
+  font-family: "Roboto", sans-serif;
   font-size: 16px;
   font-weight: 500;
   line-height: 1.5;
