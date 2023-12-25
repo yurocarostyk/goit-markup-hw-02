@@ -50,9 +50,6 @@
   line-height: 1.5;
   letter-spacing: 0.02em;
 }
-.header-menu-link:hover,
-.header-menu-link:focus {
-}
 
 .header-address {
   font-style: normal;
@@ -68,9 +65,6 @@
   font-weight: 400;
   line-height: 1.5;
   letter-spacing: 0.02em;
-}
-.header-menu-link:hover,
-.header-menu-link:focus {
 }
 .hero {
   background: var(--NAVY-BLUE, #2e2f42);
@@ -93,9 +87,7 @@
   background-color: #4d5ae5;
   cursor: pointer;
 }
-.header-menu-link:hover,
-.header-menu-link:focus {
-}
+
 ------------------------------------------------feature---------------------
   .feature {
   background: #fff;
@@ -119,9 +111,6 @@
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
-}
-.header-menu-link:hover,
-.header-menu-link:focus {
 }
 
 .team {
