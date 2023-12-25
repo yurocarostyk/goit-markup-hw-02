@@ -71,6 +71,7 @@
 }
 .hero-title {
   color: var(--WHITE, #fff);
+  font-family: Roboto;
   text-align: center;
   font-size: 56px;
   font-weight: 700;
@@ -79,7 +80,6 @@
 }
 .hero-order-service {
   color: var(--WHITE, #fff);
-  font-family: Roboto, sans-serif;
   font-size: 16px;
   font-weight: 500;
   line-height: 1.5;
@@ -107,7 +107,6 @@
 }
 .features-item-text {
   color: var(--SLATE, #434455);
-  font-family: Roboto;
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
