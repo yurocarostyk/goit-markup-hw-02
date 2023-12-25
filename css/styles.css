@@ -1,9 +1,10 @@
 .body {
   font-family: "Roboto", sans-serif;
-  color: #434455;
-  background-color: #ffffff;
 }
-
+.header-menu-link:hover,
+.header-menu-link:focus {
+  color: #404bbf;
+}
 .visually-hidden {
   position: absolute;
   width: 1px;
@@ -45,7 +46,6 @@
 }
 .header-menu-link:hover,
 .header-menu-link:focus {
-  color: #404bbf;
 }
 
 .header-address {
@@ -87,7 +87,6 @@
 }
 .header-menu-link:hover,
 .header-menu-link:focus {
-  color: #404bbf;
 }
 ------------------------------------------------feature---------------------
   .feature {
@@ -115,7 +114,6 @@
 }
 .header-menu-link:hover,
 .header-menu-link:focus {
-  color: #404bbf;
 }
 
 .team {
