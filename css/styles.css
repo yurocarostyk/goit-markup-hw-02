@@ -1,10 +1,7 @@
 .body {
   font-family: "Roboto", sans-serif;
 }
-.header-menu-link:hover,
-.header-menu-link:focus {
-  color: #404bbf;
-}
+
 .button:hover {
   color: white;
 }
@@ -50,7 +47,10 @@
   line-height: 1.5;
   letter-spacing: 0.02em;
 }
-
+.header-menu-link:hover,
+.header-menu-link:focus {
+  color: #404bbf;
+}
 .header-address {
   font-style: normal;
 }
