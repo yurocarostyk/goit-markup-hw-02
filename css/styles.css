@@ -72,7 +72,9 @@
   background-color: #4d5ae5;
   cursor: pointer;
 }
-.hero-order-service:hover,
+.hero-order-service:hover {
+  color: #404bbf;
+}
 .hero-order-service:focus {
   color: #404bbf;
 }
