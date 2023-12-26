@@ -31,10 +31,10 @@
   line-height: 1.5;
   letter-spacing: 0.02em;
 }
-.header-address-link:hover {
+.header-menu-link:hover {
   color: #404bbf;
 }
-.header-address-link:focus {
+.header-menu-link:focus {
   color: #404bbf;
 }
 .header-address {
