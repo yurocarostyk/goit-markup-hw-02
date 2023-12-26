@@ -54,7 +54,7 @@
 }
 .header-address-link:hover,
 .header-address-ilink:focus {
-  color: #404bbf;
+  background-color: #404bbf;
 }
 .hero {
   background: var(--NAVY-BLUE, #2e2f42);
