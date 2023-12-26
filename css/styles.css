@@ -46,7 +46,9 @@
   line-height: 1.5;
   letter-spacing: 0.02em;
 }
-.header-address-link:hover,
+.header-address-link:hover {
+  color: #404bbf;
+}
 .header-address-link:focus {
   color: #404bbf;
 }
@@ -74,7 +76,7 @@
 }
 .hero-order-service:hover,
 .hero-order-service:focus {
-  color: #404bbf;
+  background-color: #404bbf;
 }
 
 ------------------------------------------------feature---------------------
