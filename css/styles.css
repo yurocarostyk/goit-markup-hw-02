@@ -52,8 +52,8 @@
   line-height: 1.5;
   letter-spacing: 0.02em;
 }
-.header-address-iteam:hover,
-.header-address-iteam:focus {
+.header-address-link:hover,
+.header-address-ilink:focus {
   color: #404bbf;
 }
 .hero {
