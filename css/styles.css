@@ -3,6 +3,12 @@
   background-color: #fff;
   color: #434455;
 }
+a {
+  text-decoration: none;
+}
+ul {
+  list-style: none;
+}
 
 .header {
 }
